@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Magic Bread';
+    src: url('fonts/Magic-Bread-Regular.eot');
+    src: url('fonts/Magic-Bread-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Magic-Bread-Regular.woff2') format('woff2'),
+         url('fonts/Magic-Bread-Regular.woff') format('woff'),
+         url('fonts/Magic-Bread-Regular.ttf')  format('truetype'),
+         url('fonts/Magic-Bread-Regular.svg#Magic Bread') format('svg');
+}

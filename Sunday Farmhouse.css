@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sunday Farmhouse';
+    src: url('fonts/Sunday-Farmhouse.eot');
+    src: url('fonts/Sunday-Farmhouse.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Sunday-Farmhouse.woff2') format('woff2'),
+         url('fonts/Sunday-Farmhouse.woff') format('woff'),
+         url('fonts/Sunday-Farmhouse.ttf')  format('truetype'),
+         url('fonts/Sunday-Farmhouse.svg#Sunday Farmhouse') format('svg');
+}

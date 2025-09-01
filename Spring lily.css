@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Spring lily';
+    src: url('fonts/Spring-lily.eot');
+    src: url('fonts/Spring-lily.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Spring-lily.woff2') format('woff2'),
+         url('fonts/Spring-lily.woff') format('woff'),
+         url('fonts/Spring-lily.ttf')  format('truetype'),
+         url('fonts/Spring-lily.svg#Spring lily') format('svg');
+}
